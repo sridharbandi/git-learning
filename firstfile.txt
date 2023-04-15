@@ -2,3 +2,7 @@ This is some context
 SOme more text
 git add . //add all files to version control
 git log //Will show the history of all commits
+git branch // shows the list of branches
+git branch <name> // Creates the new branch
+git checkout <name> // Switches to the new branch
+git status // file change status
