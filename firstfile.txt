@@ -1,2 +1,3 @@
 This is some context
+SOme more text
 git add . //add all files to version control
