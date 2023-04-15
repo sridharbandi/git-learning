@@ -1,0 +1,2 @@
+This is some context
+git add . //add all files to version control
