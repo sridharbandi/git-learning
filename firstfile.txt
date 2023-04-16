@@ -1,8 +1,13 @@
 This is some context
 SOme more text
 git add . //add all files to version control
+git commit -m '<commitmessage>' // Commits the changes
 git log //Will show the history of all commits
 git branch // shows the list of branches
 git branch <name> // Creates the new branch
 git checkout <name> // Switches to the new branch
 git status // file change status
+git merge <branchname> // Merges the another branch to the current branch
+git remote -v //Will show the remote repo link
+git config --global user.email "email" // To set the git user email
+git config --global user.name "username" // To set the git user name
