@@ -11,3 +11,4 @@ git merge <branchname> // Merges the another branch to the current branch
 git remote -v //Will show the remote repo link
 git config --global user.email "email" // To set the git user email
 git config --global user.name "username" // To set the git user name
+git push origin <remotebranch> // To push the local changes to remote branch
